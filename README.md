@@ -1,2 +1,1 @@
-| ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hansepac.hansepac) <a href="https://www.linkedin.com/in/hans-capener-72a76a291/"> |![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> |
-|
+| ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hansepac.hansepac) <a href="https://www.linkedin.com/in/hans-capener-72a76a291/"> | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> |
